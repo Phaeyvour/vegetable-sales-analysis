@@ -57,7 +57,7 @@ Interactive Filters (Slicers)
 📁 Project Files
 vegetable_sales.sql – All SQL queries used for analysis
 
-Vegetable_Dataset/ – Raw dataset files (Annex1 to Annex4)
+Vegetable_Dataset – Raw dataset files 
 
 vegetable_dashboard.pbix – Power BI dashboard file
 
