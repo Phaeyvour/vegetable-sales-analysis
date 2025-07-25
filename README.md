@@ -13,7 +13,7 @@ This analysis answers business questions like:
 
 ## 🧩 Dataset Info
 
-- Data Source: [Kaggle - Vegetable Sales Dataset](https://www.kaggle.com) *(link or attribution if available)*
+- Data Source: https://www.kaggle.com
 - Tables Used:
   - `Vegetables list`: Item details (names, categories)
   - `Sales transaction data`: Sales transactions
